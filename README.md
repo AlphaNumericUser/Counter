@@ -1,6 +1,6 @@
-# Studio Ghibli Tracker
+# Counter App
 
-_Studio Ghibli Tracker is a web application that allows us to view the catalog of films produced by Studio Ghibli, as well as register a personal rating and keep track of which ones you have already seen and which ones you have not yet._
+_Counter is the first application that Flutter allows you to create. It allows you to get started with UI development and get to know a state management system._
 
 <img src="https://user-images.githubusercontent.com/73669701/166158870-9e479615-9b5c-4078-a6c6-d16b7e313e52.png" width="800" align="middle" style="float: center;" >
 
