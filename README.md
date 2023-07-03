@@ -1,87 +1,33 @@
 # Counter App
 
-_Counter is the first application that Flutter allows you to create. It allows you to get started with UI development and get to know a state management system._
+Counter is the first application that Flutter allows you to create. It allows you to get started with UI development and get to know a state management system.
 
-<img src="https://user-images.githubusercontent.com/73669701/166158870-9e479615-9b5c-4078-a6c6-d16b7e313e52.png" width="800" align="middle" style="float: center;" >
+<p>
+    <img src="./docs/sliver_app_bar.png" width="200"/ hspace="5"> 
+</p>
 
-  ### Table of Contents
-  1. [Config-environment](#Config-environment)
-  2. [Studio Ghibli Tracker Flowchart](#flowchart)
-  3. [Deploy](#deployed)
-  4. [Acknowledgements](#acknowledgements)
+## Introduction
 
+This repository aims to showcase a simple state management system and a simple user interface. The entire example is well-documented and comes with detailed explanations to help you understand the purpose and properties.
 
-<img src="https://user-images.githubusercontent.com/73669701/166158947-ddf3f5e3-d9d3-45a5-bef8-468353d9a51e.png" width="450" align="right" />
+## Installation
 
+To use this example, make sure you have Flutter installed on your machine. If you haven't installed Flutter yet, follow the official Flutter installation guide [here](https://flutter.dev/docs/get-started/install).
 
+Clone this repository to your local machine:
 
-
-
-
-
-## ⚙Config-environment <a name="Config-environment"></a>
-
-This is custom environment configured from scratch using **Webpack** and **React.js**, we decided this to optimize the load of the frontend.
-
-### Built With
-
-These are the technologies and libraries we used to build this project.
-
-- React.js
-- Webpack 
-- Linter
-- Formik
-- SASS
-<!-- GETTING STARTED -->
-
-### Getting Started
-
-If you want to run this project on local, take a look to the following steps:
-
-### Prerequisites
-
-To run the project you will need npm in its latest version.
-
-- npm (Package manager for the JavaScript)
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation <img src="https://user-images.githubusercontent.com/73669701/166159879-09b314c6-4286-43b1-b816-80956acc408b.png" width="450" align="right" />
-
-_Then, let's clone the repo, and install all the dependencies of the project._
-
-1. Clone the repo
-   ```sh
-   git clone git@github.com:C10-Ghibli-s/FE-Studio-Ghibli-Tracker.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-   
-
-   
-### Running the tests
-
-JestJS was implemented in this project because is a JavaScript Testing Framework focused on simplicity and Unit Testing. To run the test use the following command.
+```bash
+git clone https://github.com/AlphaNumericUser/Counter.git
 
 ```
-npm test
-```
 
-### Linter Code
+## Usage
+You can open the example in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code) and run it on a simulator or physical device.
 
-ESLint was implemented in this project. To run the lint use the following command.
+Feel free to experiment, modify the code, and integrate these widgets into your own projects.
 
-```
-npm run lint
-```
+## Contributing
+Contributions are welcome! If you have any improvements, bug fixes, or new examples to add, please follow the guidelines outlined in CONTRIBUTING.md.
 
-## Studio Ghibli Tracker Flowchart <a name="flowchart"></a>
-[**Open in Figma**](https://www.figma.com/file/fBCX1ahNBOFbPjSOtrPp8c/FlowChart-Studio-Ghibli?node-id=0%3A1)
-![image](https://user-images.githubusercontent.com/73669701/165537137-1b298af7-18e7-4d30-ba34-f35900aaf69a.png)
-
-
-##  🚀Deploy <a name="deployed"></a>
-[**Studio Ghibli Tracker**](https://ghibli-tracker.c10-se.com)
+## License
+This project is licensed under the MIT License.
