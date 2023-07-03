@@ -22,12 +22,12 @@ git clone https://github.com/AlphaNumericUser/Counter.git
 ```
 
 ## Usage
-You can open the example in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code) and run it on a simulator or physical device.
+You can open the project in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code) and run it on a simulator or physical device.
 
 Feel free to experiment, modify the code, and integrate these widgets into your own projects.
 
 ## Contributing
-Contributions are welcome! If you have any improvements, bug fixes, or new examples to add, please follow the guidelines outlined in CONTRIBUTING.md.
+Contributions are welcome! If you have any improvements, bug fixes, or new examples to add.
 
 ## License
 This project is licensed under the MIT License.
