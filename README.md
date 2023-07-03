@@ -3,8 +3,8 @@
 Counter is the first application that Flutter allows you to create. It allows you to get started with UI development and get to know a state management system.
 
 <p>
-    <img src="https://i.imgur.com/JWZmkxx.png" width="200"/ hspace="150"> 
-    <img src="https://i.imgur.com/EnMps4R.png" width="200"/ hspace="100"> 
+    <img src="https://i.imgur.com/JWZmkxx.png" width="200"/ hspace="5"> 
+    <img src="https://i.imgur.com/EnMps4R.png" width="200"/ hspace="5"> 
 </p>
 
 ## Introduction
